@@ -24,7 +24,7 @@ This repository describes the overall flow from RTL to GDSII.
     - [2.Power Distribution Network and routing](#2.Power)
     - [3.TritonRoute Features](#3.TritonRoute)
 
-## <a name="Day1">DAY1 - Introduction to open-source
+## <a name="Day1"></a>DAY1 - Introduction to open-source
 ### <a name="1.Computers"></a>1.How to talk to Computers
-### <a name="2.Soc_Desgin">2.Soc design and OpenLANE
-### <a name="3.EDA_tools">3.Open-source EDA tools
+### <a name="2.Soc_Desgin"></a>2.Soc design and OpenLANE
+### <a name="3.EDA_tools"></a>3.Open-source EDA tools
