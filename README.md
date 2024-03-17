@@ -1,9 +1,9 @@
 # NASSCOM-VSD-Soc-Design
 This repository describes the overall flow from RTL to GDSII.
 ## Table of Contents
-* [DAY1 - Introduction to open-source](#Day1)
-    * [How to talk to Computers](#How-to-talk-to-Computers)
-    * [Soc design and OpenLANE](#Soc-design-and-OpenLANE)
+- [DAY1 - Introduction to open-source](#Day1---Introduction-to-open-source)
+    - [How to talk to Computers](#Computers)
+    - [Soc design and OpenLANE](#Soc-design-and-OpenLANE)
     - [Open-source EDA tools](#Open-source-EDA-tools)
 - [DAY2 - Floorplan and introduction to library cells](#Day2)
     - [1.Chip Floor planning](#1.Floorplan)
@@ -24,9 +24,9 @@ This repository describes the overall flow from RTL to GDSII.
     - [2.Power Distribution Network and routing](#2.Power)
     - [3.TritonRoute Features](#3.TritonRoute)
 
-## <a name="Day1"></a>DAY1 - Introduction to open-source
+## <a name="Day1---Introduction-to-open-source"></a>DAY1 - Introduction to open-source
 
-### <a name="How-to-talk-to-Computers"></a>How to talk to Computers
+### <a name="Computers"></a>How to talk to Computers
 
 ### <a name="Soc-design-and-OpenLANE"></a>Soc design and OpenLANE
 ### <a name="Open-source-EDA-tools"></a>Open-source EDA tools
