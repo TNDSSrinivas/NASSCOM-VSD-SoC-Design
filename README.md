@@ -23,7 +23,7 @@ This repository describes the overall flow from RTL to GDSII.
     - [1.Routing and Design rule check (DRC)](#1.Routing_&_DRC)
     - [2.Power Distribution Network and routing](#2.Power)
     - [3.TritonRoute Features](#3.TritonRoute)
-## Day1 - Introduction to open-source
-### 1.How to talk to computers
+## DAY1 - Introduction to open-source
+### 1.Computers
 ### 2.Soc design and OpenLANE
 ### 3.Open-source EDA tools
