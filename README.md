@@ -2,7 +2,7 @@
 This repository describes the overall flow from RTL to GDSII.
 ## Table of Contents
 - [DAY1 - Introduction to open-source](#Day1)
-    - [Computers](#computers)
+    - [1.How to talk to Computers](#1.Computers)
     - [2.Soc design and OpenLANE](#2.Soc_Desgin)
     - [3.Open-source EDA tools](#3.EDA_tools)
 - [DAY2 - Floorplan and introduction to library cells](#Day2)
@@ -18,14 +18,13 @@ This repository describes the overall flow from RTL to GDSII.
     - [1.Timing modelling](#1.Modelling)
     - [2.Timing analysis with ideal clocks](#2.Ideal_clocks)
     - [3.Clock tree synthesis](#3.Clock_tree)
-    - [4.Timing analysis with real clocks)(#4.Real_clocks)
+    - [4.Timing analysis with real clocks](#4.Real_clocks)
 - [DAY5 - Final steps for RTL2GDS](#Day5)
     - [1.Routing and Design rule check (DRC)](#1.Routing_&_DRC)
     - [2.Power Distribution Network and routing](#2.Power)
     - [3.TritonRoute Features](#3.TritonRoute)
-## DAY1 - Introduction to open-source
 
-### <a name="Computers"></a>Computers
-
-### 2.Soc design and OpenLANE
-### 3.Open-source EDA tools
+## <a name="Day1">DAY1 - Introduction to open-source
+### <a name="1.Computers"></a>1.How to talk to Computers
+### <a name="2.Soc_Desgin">2.Soc design and OpenLANE
+### <a name="3.EDA_tools">3.Open-source EDA tools
