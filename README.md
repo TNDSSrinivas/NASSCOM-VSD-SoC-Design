@@ -2,7 +2,7 @@
 This repository describes the overall flow from RTL to GDSII.
 ## Table of Contents
 - [DAY1 - Introduction to open-source](#Day1---Introduction-to-open-source)
-    - [How to talk to Computers](#How-to-talk-Computers)
+    - [How to talk to Computers](#how-to-talk-to-Computers)
     - [Soc design and OpenLANE](#Soc-design-and-OpenLANE)
     - [Open-source EDA tools](#Open-source-EDA-tools)
 - [DAY2 - Floorplan and introduction to library cells](#Day2)
@@ -26,7 +26,7 @@ This repository describes the overall flow from RTL to GDSII.
 
 ## <a name="Day1---Introduction-to-open-source"></a>DAY1 - Introduction to open-source
 
-### <a name="How-to-talk-Computers"></a>How to talk to Computers
+### <a name="how-to-talk-to-Computers"></a>How to talk to Computers
 
 ### <a name="Soc-design-and-OpenLANE"></a>Soc design and OpenLANE
 
