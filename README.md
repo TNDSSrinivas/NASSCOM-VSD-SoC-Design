@@ -26,16 +26,28 @@ This repository describes the overall flow from RTL to GDSII.
 
 ## <a name="Day1---Introduction-to-open-source"></a>DAY1 - Introduction to open-source
 ### <a name="how-to-talk-to-Computers"></a>How to talk to Computers
-From the figure below, this board is an Arduino Uno. The yellow circle on the board indicates the area whhere the VLSI industry is working.
+->From the figure below, this board is an Arduino Uno. The yellow circle on the board indicates the area whhere the VLSI industry is working.
 ![Screenshot (256)](https://github.com/TNDSSrinivas/NASSCOM-VSD-SoC-Design/assets/145267199/6598798d-36c9-4804-a612-db4133f2f84d)
 <br></br>
-This is the architecture of the Ardunio Uno board.
+->This is the architecture of the Ardunio Uno board.
 ![Screenshot (257)](https://github.com/TNDSSrinivas/NASSCOM-VSD-SoC-Design/assets/145267199/547af97f-07f0-48e0-8a15-0b62fa95b0b9)
 <br></br>
-This chip is known as Package.We have different types of packages, below image refer to package qfn-48 (Quard Flat No-Leads) where this 48 indicates the number of pins the package had.
+->This chip is known as Package.We have different types of packages, below image refer to package qfn-48 (Quard Flat No-Leads) where this 48 indicates the number of pins the package had.
 <br>This is the way that wires are connected to the boundaries of the chip like this.</br>
 ![Screenshot (260)](https://github.com/TNDSSrinivas/NASSCOM-VSD-SoC-Design/assets/145267199/6262cd8d-57aa-43e5-b6bf-ab466e5a5b2b)
 <br></br>
+Inside the chip it has various components
+<br>1.Pads:</br>
+It is the external connection points where the chip makes contact with the outside world. It acts like a door to allow the signal from inside to outside world and vise versa.
+<br></br>
+<br>2.Core:</br>
+In the core where all the logic circuitry and functional components are located. It includes mux, gates and other elements this all placed in this area.
+<br>In core we have two types:</br>
+<br>    1.Foundry IP's:</br>
+                
+![Screenshot (264)](https://github.com/TNDSSrinivas/NASSCOM-VSD-SoC-Design/assets/145267199/c66e16ea-2d25-442d-b8dc-c1d5ef0613bf)
+![Screenshot (266)](https://github.com/TNDSSrinivas/NASSCOM-VSD-SoC-Design/assets/145267199/53a720df-f1d2-4d07-9f29-2b93d6f4803c)
+
 ### <a name="Soc-design-and-OpenLANE"></a>Soc design and OpenLANE
 
 ### <a name="Open-source-EDA-tools"></a>Open-source EDA tools
